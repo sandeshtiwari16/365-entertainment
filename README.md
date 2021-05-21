@@ -1,6 +1,6 @@
 # 365 Entertainment
 
-[To see working of website](https://sandeshtiwari16.github.io/365-entertainment/index.html)
+[Demo](https://sandeshtiwari16.github.io/365-entertainment/index.html)
 
 Only `Movies` page is functional.
 

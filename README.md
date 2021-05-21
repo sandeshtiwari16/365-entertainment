@@ -2,6 +2,8 @@
 
 [To see working of website](https://sandeshtiwari16.github.io/365-entertainment/index.html)
 
+Only `Movies` page is functional.
+
 _Front-end and Business logic 365 Entertainment similar to www.hotstar.com_
 
 ### Description
